@@ -1,0 +1,12 @@
+/distro
+.idea
+/.bsp
+*.iml
+**/target
+*.sc
+
+
+.bloop/
+/.metals/
+/.vscode/
+metals.sbt
