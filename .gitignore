@@ -10,3 +10,5 @@
 /.metals/
 /.vscode/
 metals.sbt
+/*.tasty
+/*.class
